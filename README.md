@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dziunincode69
-- 👀 I’m interested in web3
+- 👀 I’m interested in web3,goeth
 - 🌱 I’m currently learning golang, javasacript
 - 📫 How to reach me @manesty
 
